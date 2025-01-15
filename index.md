@@ -286,7 +286,7 @@ The following sections document the development history of BowFolios.
 
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system.
 
-Milestone 1 was managed using [BowFolio GitHub Project Board M1](https://github.com/bowfolios/bowfolios/projects/1):
+Milestone 1 was managed using [pineapple-spire GitHub Project Board M1](https://github.com/orgs/pineapple-spire/projects/1):
 
 ![](images/project-board-1.png)
 
@@ -334,4 +334,5 @@ There are a number of simple enhancements you can make to the system to become b
 
 ## Team
 
-BowFolios is designed, implemented, and maintained by [Philip Johnson](https://philipmjohnson.org) and [Cam Moore](https://cammoore.github.io/).
+Designed, implemented, and maintained by [Adriel White](https://adrielwhite.github.io/), [Kye Steele](https://kyesteele.github.io/),
+[Keiko Raiola](https://keikotr.github.io/), [Jake Dickinson](https://jaked332.github.io/), [Eden Parungao](https://edenkp.github.io/), [Shane Baclig](https://uhm-shaneb.github.io/), [Zachary Stoddard](https://hcazzz.github.io/), and [Elijah Inofinada](https://eino808.github.io/).
