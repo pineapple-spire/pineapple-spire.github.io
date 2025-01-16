@@ -1,4 +1,4 @@
-## Pineapple
+## Pineapple-Spire
 
 ## Table of contents
 
