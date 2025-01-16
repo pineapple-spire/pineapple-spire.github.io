@@ -1,4 +1,4 @@
-# pineapple-spire
+## Pineapple-spire
 
 ## Table of contents
 
