@@ -1,4 +1,4 @@
-# Bowfolios
+# pineapple-spire
 
 ## Table of contents
 
