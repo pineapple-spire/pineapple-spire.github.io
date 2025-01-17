@@ -26,7 +26,6 @@ This section provides a walkthrough of the pineapple-spire user interface and it
 
 The landing page is presented to users when they visit the top-level URL to the site.
 
-
 ### Index pages
 
 ### Sign in and sign up
