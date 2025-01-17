@@ -16,6 +16,8 @@
 
 ## Overview
 
+Pineappple-spire is designed to create an optimized Financial Sustainability Model by integrating the model into a web-based platform with a user-friendly interface.
+
 ## User Guide
 
 This section provides a walkthrough of the pineapple-spire user interface and its capabilities.
