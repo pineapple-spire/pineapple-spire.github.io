@@ -12,6 +12,7 @@
 * [Walkthrough videos](#walkthrough-videos)
 * [Example enhancements](#example-enhancements)
 * [Team](#team)
+* [Team Contract](#team-contract).
 
 ## Overview
 
@@ -335,4 +336,8 @@ There are a number of simple enhancements you can make to the system to become b
 ## Team
 
 Designed, implemented, and maintained by [Adriel White](https://adrielwhite.github.io/), [Kye Steele](https://kyesteele.github.io/),
-[Keiko Raiola](https://keikotr.github.io/), [Jake Dickinson](https://jaked332.github.io/), [Eden Parungao](https://edenkp.github.io/), [Shane Baclig](https://uhm-shaneb.github.io/), [Zachary Stoddard](https://hcazzz.github.io/), and [Elijah Inofinada](https://eino808.github.io/).
+[Keiko Raiola](https://keikotr.github.io/), [Jake Dickinson](https://jaked332.github.io/), [Eden Parungao](https://edenkp.github.io/), [Shane Baclig](https://uhm-shaneb.github.io/), [Zachary Stoddard](https://hcazzz.github.io/), and [Elijah Inofinada](https://eino808.github.io/). 
+
+## Team Contract
+
+Link to our team contract: [Pineapple Spire Team Contract](https://docs.google.com/document/d/1FcM9N-iCkzPbdlifyuLXAwvtmEhThMv8Lw95GmEuUC8/edit?usp=sharing).
