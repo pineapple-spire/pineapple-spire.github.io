@@ -40,7 +40,9 @@ This section provides a walkthrough of the Pineapple-Spire user interface and it
 
 ### Landing Page
 
-The landing page is presented to users when they visit the top-level URL of the site.
+The landing page is presented to users when they visit the site's top-level URL. This page allows users to navigate the specific financial analysis tooling the application covers.
+
+<img src="images/Spire Homepage.png" alt="Landing Page" width=600px>
 
 ### Index Pages
 
