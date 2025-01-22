@@ -42,8 +42,6 @@ This section provides a walkthrough of the Pineapple-Spire user interface and it
 
 The landing page is presented to users when they visit the site's top-level URL. This page allows users to navigate the specific financial analysis tooling the application covers.
 
-<img src="images/Spire Homepage.png" alt="Landing Page" width=600px>
-
 ### Index Pages
 
 (Details about index pages.)
@@ -86,7 +84,8 @@ The development process for Pineapple-Spire adheres to [Issue Driven Project Man
 
 ### Milestone 1: Mockup Development
 
-(Current status of tasks and milestones can be documented here.)
+#### Landing Page
+<img src="images/Spire Homepage.png" alt="Landing Page" width=600px>
 
 ---
 
