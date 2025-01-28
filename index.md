@@ -9,6 +9,7 @@
   - [Index Pages](#index-pages)
   - [Sign In and Sign Up](#sign-in-and-sign-up)
   - [Home Page](#home-page)
+  - [Financial Compilation Page](#fc-page)
 - [Community Feedback](#community-feedback)
 - [Developer Guide](#developer-guide)
   - [Quality Assurance](#quality-assurance)
@@ -54,6 +55,10 @@ The landing page is presented to users when they visit the site's top-level URL.
 
 (Details about the home page features.)
 
+### Financial Compilation Page
+
+The financial compilation page features a 12 year forecast output of various financial information. Users are able to calculate their 12 year forecast by choosing if they want to view their data using the average of the past three years information or use a percent multiplier from 0-100%.
+
 ---
 
 ## Community Feedback
@@ -86,6 +91,26 @@ The development process for Pineapple-Spire adheres to [Issue Driven Project Man
 
 #### Landing Page
 <img src="images/Spire Homepage.png" alt="Landing Page" width=600px>
+
+#### Financial Compilation Pages
+
+##### Landing Page
+<img src="images\fc-landing-page.png" alt="Financial Compilation Landing Page" width=600px>
+
+##### Income Statement Page
+<img src="images\fc-income-statement-page.png" alt="Financial Compilation Income Statement Page" width=600px>
+
+##### Costs of Goods Page
+<img src="images/fc-costs-of-goods-page.png" alt="Financial Compilation Costs of Goods Page" width=600px>
+
+##### Operating Expenses Page
+<img src="images/fc-operating-expenses-page.png" alt="Financial Compilation Operating Expenses Page" width=600px>
+
+##### Assets Page
+<img src="images/fc-assets-page.png" alt="Financial Compilation Assets Page" width=600px>
+
+##### Liabilities and Equity Page
+<img src="images/fc-liabilities-equity-page.png" alt="Financial Compilation Liabilities and Equity Page" width=600px>
 
 #### Stress Test Tool Page
 <img src="images/Stress Test Tool Page.png" alt="Stress Test Tool" width=600px>
