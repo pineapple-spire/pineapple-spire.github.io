@@ -118,6 +118,9 @@ The development process for Pineapple-Spire adheres to [Issue Driven Project Man
 #### Stress Test 1 Page
 <img src="images/stress-test-1.png" alt="Stress Test 1" width=600px>
 
+#### Stress Test 2 Page
+<img src="images/stress-test-2.png" alt="Stress Test 2" width=600px>
+
 ---
 
 ## Continuous Integration
