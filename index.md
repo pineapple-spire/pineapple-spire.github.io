@@ -175,7 +175,6 @@ The project was designed, implemented, and maintained by:
 - [Eden Parungao](https://edenkp.github.io/)
 - [Shane Baclig](https://uhm-shaneb.github.io/)
 - [Zachary Stoddard](https://hcazzz.github.io/)
-- [Elijah Inofinada](https://eino808.github.io/)
 
 ---
 
