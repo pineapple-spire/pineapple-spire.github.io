@@ -92,6 +92,8 @@ The development process for Pineapple-Spire adheres to [Issue Driven Project Man
 #### Landing Page
 <img src="images/Spire Homepage.png" alt="Landing Page" width=600px>
 
+#### Sign Up and Sign In Page
+
 #### Financial Compilation Pages
 
 ##### Landing Page
