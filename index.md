@@ -121,6 +121,9 @@ The development process for Pineapple-Spire adheres to [Issue Driven Project Man
 #### Sustainability Model Page
 <img src="images/sustainability-model.png" alt="Sustainability Model Page" width=600px>
 
+#### Auditor Page
+<img src="images/Auditor%20Role%20Page%20Mockup.png" alt="Auditor Page" width=600px>
+
 #### Stress Test Tool Page
 <img src="images/Stress Test Tool Page.png" alt="Stress Test Tool" width=600px>
 
