@@ -156,6 +156,13 @@ The development process for Pineapple-Spire adheres to [Issue Driven Project Man
 
 ---
 
+## Milestones
+
+<ul>
+  <li><a href="https://github.com/orgs/pineapple-spire/projects/1">Milestone 1</a></li>
+</ul>
+
+
 ## Team
 
 The project was designed, implemented, and maintained by:
