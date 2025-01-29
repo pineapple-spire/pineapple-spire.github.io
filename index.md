@@ -160,6 +160,7 @@ The development process for Pineapple-Spire adheres to [Issue Driven Project Man
 
 <ul>
   <li><a href="https://github.com/orgs/pineapple-spire/projects/1">Milestone 1</a></li>
+  <li><a href="https://github.com/orgs/pineapple-spire/projects/1">Milestone 2</a></li>
 </ul>
 
 
