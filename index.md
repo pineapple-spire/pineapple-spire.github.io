@@ -100,9 +100,6 @@ The development process for Pineapple-Spire adheres to [Issue Driven Project Man
 
 #### Financial Compilation Pages
 
-##### Landing Page
-<img src="images\fc-landing-page.png" alt="Financial Compilation Landing Page" width=600px>
-
 ##### Income Statement Page
 <img src="images\fc-income-statement-page.png" alt="Financial Compilation Income Statement Page" width=600px>
 
@@ -132,6 +129,12 @@ The development process for Pineapple-Spire adheres to [Issue Driven Project Man
 
 #### Stress Test 2 Page
 <img src="images/stress-test-2.png" alt="Stress Test 2" width=600px>
+
+#### Stress Test 3 Page
+<img src="images/stress-test-3.png" alt="Stress Test 3" width=600px>
+
+#### Stress Test 4 Page
+<img src="images/stress-test-4.png" alt="Stress Test 4" width=600px>
 
 ---
 
