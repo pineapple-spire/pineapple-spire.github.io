@@ -118,6 +118,9 @@ The development process for Pineapple-Spire adheres to [Issue Driven Project Man
 ##### Liabilities and Equity Page
 <img src="images/fc-liabilities-equity-page.png" alt="Financial Compilation Liabilities and Equity Page" width=600px>
 
+#### Sustainability Model Page
+<img src="images/sustainability-model.png" alt="Sustainability Model Page" width=600px>
+
 #### Stress Test Tool Page
 <img src="images/Stress Test Tool Page.png" alt="Stress Test Tool" width=600px>
 
