@@ -89,6 +89,8 @@ The development process for Pineapple-Spire adheres to [Issue Driven Project Man
 
 ### Milestone 1: Mockup Development
 
+[Milestone 1 Project Board](https://github.com/orgs/pineapple-spire/projects/1)
+
 #### Landing Page
 <img src="images/Spire Homepage.png" alt="Landing Page" width=600px>
 
