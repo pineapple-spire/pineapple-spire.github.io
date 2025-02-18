@@ -89,95 +89,88 @@ The development process for Pineapple-Spire adheres to [Issue Driven Project Man
 - Task statuses (To Do, In Progress, Complete) are managed via a GitHub Project Board.
 
 <details>
-  <summary><strong>Milestone 1</strong></summary>
-
-[Milestone 1 Project Board](https://github.com/orgs/pineapple-spire/projects/1)
-
-#### Landing Page
-<img src="images/Spire Homepage.png" alt="Landing Page" width=600px>
-
-#### Sign In Page
-<img src="images/Sign-In-Page.png" alt="Sign In Page" width=600px>
-
-#### Sign Up Page
-<img src="images/Sign-Up-Page.png" alt="Sign Up Page" width=600px>
-
-#### Financial Compilation Pages
-
-##### Income Statement Page
-<img src="images/fc-income-statement-page.png" alt="Financial Compilation Income Statement Page" width=600px>
-
-##### Costs of Goods Page
-<img src="images/fc-costs-of-goods-page.png" alt="Financial Compilation Costs of Goods Page" width=600px>
-
-##### Operating Expenses Page
-<img src="images/fc-operating-expenses-page.png" alt="Financial Compilation Operating Expenses Page" width=600px>
-
-##### Assets Page
-<img src="images/fc-assets-page.png" alt="Financial Compilation Assets Page" width=600px>
-
-##### Liabilities and Equity Page
-<img src="images/fc-liabilities-equity-page.png" alt="Financial Compilation Liabilities and Equity Page" width=600px>
-
-#### Sustainability Model Page
-<img src="images/sustainability-model.png" alt="Sustainability Model Page" width=600px>
-
-#### Auditor Page
-<img src="images/Auditor%20Role%20Page%20Mockup.png" alt="Auditor Page" width=600px>
-
-#### Stress Test Tool Page
-<img src="images/Stress Test Tool Page.png" alt="Stress Test Tool" width=600px>
-
-#### Stress Test 1 Page
-<img src="images/stress-test-1.png" alt="Stress Test 1" width=600px>
-
-#### Stress Test 2 Page
-<img src="images/stress-test-2.png" alt="Stress Test 2" width=600px>
-
-#### Stress Test 3 Page
-<img src="images/stress-test-3.png" alt="Stress Test 3" width=600px>
-
-#### Stress Test 4 Page
-<img src="images/stress-test-4.png" alt="Stress Test 4" width=600px>
-
-#### Stress Test 5 Page
-<img src="images/stress-test-5.png" alt="Stress Test 5" width=600px>
-
+  <summary><strong>Milestone 1</strong> &rArr;</summary>
+  <p><a href="https://github.com/orgs/pineapple-spire/projects/1">Milestone 1 Project Board</a></p>
+  
+  <h3>Landing Page</h3>
+  <img src="images/Spire Homepage.png" alt="Landing Page" width="600px">
+  
+  <h3>Sign In Page</h3>
+  <img src="images/Sign-In-Page.png" alt="Sign In Page" width="600px">
+  
+  <h3>Sign Up Page</h3>
+  <img src="images/Sign-Up-Page.png" alt="Sign Up Page" width="600px">
+  
+  <h3>Financial Compilation Pages</h3>
+  <h4>Income Statement Page</h4>
+  <img src="images/fc-income-statement-page.png" alt="Financial Compilation Income Statement Page" width="600px">
+  
+  <h4>Costs of Goods Page</h4>
+  <img src="images/fc-costs-of-goods-page.png" alt="Financial Compilation Costs of Goods Page" width="600px">
+  
+  <h4>Operating Expenses Page</h4>
+  <img src="images/fc-operating-expenses-page.png" alt="Financial Compilation Operating Expenses Page" width="600px">
+  
+  <h4>Assets Page</h4>
+  <img src="images/fc-assets-page.png" alt="Financial Compilation Assets Page" width="600px">
+  
+  <h4>Liabilities and Equity Page</h4>
+  <img src="images/fc-liabilities-equity-page.png" alt="Financial Compilation Liabilities and Equity Page" width="600px">
+  
+  <h3>Sustainability Model Page</h3>
+  <img src="images/sustainability-model.png" alt="Sustainability Model Page" width="600px">
+  
+  <h3>Auditor Page</h3>
+  <img src="images/Auditor%20Role%20Page%20Mockup.png" alt="Auditor Page" width="600px">
+  
+  <h3>Stress Test Tool Page</h3>
+  <img src="images/Stress Test Tool Page.png" alt="Stress Test Tool" width="600px">
+  
+  <h3>Stress Test 1 Page</h3>
+  <img src="images/stress-test-1.png" alt="Stress Test 1" width="600px">
+  
+  <h3>Stress Test 2 Page</h3>
+  <img src="images/stress-test-2.png" alt="Stress Test 2" width="600px">
+  
+  <h3>Stress Test 3 Page</h3>
+  <img src="images/stress-test-3.png" alt="Stress Test 3" width="600px">
+  
+  <h3>Stress Test 4 Page</h3>
+  <img src="images/stress-test-4.png" alt="Stress Test 4" width="600px">
+  
+  <h3>Stress Test 5 Page</h3>
+  <img src="images/stress-test-5.png" alt="Stress Test 5" width="600px">
 </details>
 
 <details>
-  <summary><strong>Milestone 2</strong></summary>
-
-[Milestone 2 Project Board](https://github.com/orgs/pineapple-spire/projects/2)
-
-#### Landing Page
-<img src="images/M2/Landing.png" alt="Landing Page" width=600px>
-
-#### Sign In Page
-<img src="images/M2/Signin.png" alt="Sign In Page" width=600px>
-
-#### Sign Up Page
-<img src="images/M2/Signup.png" alt="Sign Up Page" width=600px>
-
-#### About Page
-<img src="images/M2/About.png" alt="About Page" width=600px>
-
-#### Financial Compilation Page
-<img src="images/M2/FC.png" alt="Financial Compilation Page" width=600px>
-
-#### Fiscal Sustainability Model Page
-<img src="images/M2/FSM.png" alt="Fiscal Sustainability Model Page" width=600px>
-
-#### Stress Test Tool Page
-<img src="images/M2/Stress.png" alt="Stress Test Tool Page" width=600px>
-
+  <summary><strong>Milestone 2</strong> &rArr;</summary>
+  <p><a href="https://github.com/orgs/pineapple-spire/projects/2">Milestone 2 Project Board</a></p>
+  
+  <h3>Landing Page</h3>
+  <img src="images/M2/Landing.png" alt="Landing Page" width="600px">
+  
+  <h3>Sign In Page</h3>
+  <img src="images/M2/Signin.png" alt="Sign In Page" width="600px">
+  
+  <h3>Sign Up Page</h3>
+  <img src="images/M2/Signup.png" alt="Sign Up Page" width="600px">
+  
+  <h3>About Page</h3>
+  <img src="images/M2/About.png" alt="About Page" width="600px">
+  
+  <h3>Financial Compilation Page</h3>
+  <img src="images/M2/FC.png" alt="Financial Compilation Page" width="600px">
+  
+  <h3>Fiscal Sustainability Model Page</h3>
+  <img src="images/M2/FSM.png" alt="Fiscal Sustainability Model Page" width="600px">
+  
+  <h3>Stress Test Tool Page</h3>
+  <img src="images/M2/Stress.png" alt="Stress Test Tool Page" width="600px">
 </details>
 
 <details>
-  <summary><strong>Milestone 3</strong></summary>
-
-[Milestone 3 Project Board](https://github.com/orgs/pineapple-spire/projects/3)
-
+  <summary><strong>Milestone 3</strong> &rArr;</summary>
+  <p><a href="https://github.com/orgs/pineapple-spire/projects/3">Milestone 3 Project Board</a></p>
 </details>
 
 ---
