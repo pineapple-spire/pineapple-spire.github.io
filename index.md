@@ -88,6 +88,10 @@ The development process for Pineapple-Spire adheres to [Issue Driven Project Man
 - Once a task is complete, its corresponding issue is closed, and the branch is merged into `master`.
 - Task statuses (To Do, In Progress, Complete) are managed via a GitHub Project Board.
 
+### Milestone Information
+
+> Click on milestone to expand.
+
 <details>
   <summary><strong>Milestone 1</strong> &rArr;</summary>
   <p><a href="https://github.com/orgs/pineapple-spire/projects/1">Milestone 1 Project Board</a></p>
