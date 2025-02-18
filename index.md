@@ -181,7 +181,7 @@ The development process for Pineapple-Spire adheres to [Issue Driven Project Man
 
 ## Continuous Integration
 
-Our project leverages GitHub Actions to automate our continuous integration (CI) process. The pipeline is triggered on pushes and pull requests to our primary branche (`main`), ensuring that every change is tested.
+Our project leverages GitHub Actions to automate our continuous integration (CI) process. The pipeline is triggered on pushes and pull requests to our primary branch (`main`), ensuring that every change is tested.
 
 ### How It Works
 
