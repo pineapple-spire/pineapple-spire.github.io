@@ -16,7 +16,6 @@
 - [Developer Guide](#developer-guide)
   - [Quality Assurance](#quality-assurance)
 - [Development History](#development-history)
-  - [Milestone 1: Mockup Development](#milestone-1-mockup-development)
 - [Continuous Integration](#continuous-integration)
 - [Walkthrough Videos](#walkthrough-videos)
 - [Example Enhancements](#example-enhancements)
@@ -89,7 +88,8 @@ The development process for Pineapple-Spire adheres to [Issue Driven Project Man
 - Once a task is complete, its corresponding issue is closed, and the branch is merged into `master`.
 - Task statuses (To Do, In Progress, Complete) are managed via a GitHub Project Board.
 
-### Milestone 1: Mockup Development
+<details>
+  <summary><strong>Milestone 1</strong></summary>
 
 [Milestone 1 Project Board](https://github.com/orgs/pineapple-spire/projects/1)
 
@@ -105,7 +105,7 @@ The development process for Pineapple-Spire adheres to [Issue Driven Project Man
 #### Financial Compilation Pages
 
 ##### Income Statement Page
-<img src="images\fc-income-statement-page.png" alt="Financial Compilation Income Statement Page" width=600px>
+<img src="images/fc-income-statement-page.png" alt="Financial Compilation Income Statement Page" width=600px>
 
 ##### Costs of Goods Page
 <img src="images/fc-costs-of-goods-page.png" alt="Financial Compilation Costs of Goods Page" width=600px>
@@ -143,11 +143,107 @@ The development process for Pineapple-Spire adheres to [Issue Driven Project Man
 #### Stress Test 5 Page
 <img src="images/stress-test-5.png" alt="Stress Test 5" width=600px>
 
+</details>
+
+<details>
+  <summary><strong>Milestone 2</strong></summary>
+
+[Milestone 2 Project Board](https://github.com/orgs/pineapple-spire/projects/2)
+
+#### Landing Page
+<img src="images/M2/Landing.png" alt="Landing Page" width=600px>
+
+#### Sign In Page
+<img src="images/M2/Signin.png" alt="Sign In Page" width=600px>
+
+#### Sign Up Page
+<img src="images/M2/Signup.png" alt="Sign Up Page" width=600px>
+
+#### About Page
+<img src="images/M2/About.png" alt="About Page" width=600px>
+
+#### Financial Compilation Page
+<img src="images/M2/FC.png" alt="Financial Compilation Page" width=600px>
+
+#### Fiscal Sustainability Model Page
+<img src="images/M2/FSM.png" alt="Fiscal Sustainability Model Page" width=600px>
+
+#### Stress Test Tool Page
+<img src="images/M2/Stress.png" alt="Stress Test Tool Page" width=600px>
+
+</details>
+
+<details>
+  <summary><strong>Milestone 3</strong></summary>
+
+[Milestone 3 Project Board](https://github.com/orgs/pineapple-spire/projects/3)
+
+</details>
+
 ---
 
 ## Continuous Integration
 
-(Details about continuous integration processes.)
+Our project leverages GitHub Actions to automate our continuous integration (CI) process. The pipeline is triggered on pushes and pull requests to our primary branche (`main`), ensuring that every change is tested.
+
+### How It Works
+
+1. **Triggering the Pipeline:**  
+   The workflow initiates on code pushes and pull requests, ensuring that all updates are validated.
+
+2. **Environment Setup:**  
+   - **Checkout Code:** The latest version of the repository is checked out.
+   - **Node Environment:** The pipeline sets up Node.js using the latest LTS version.
+   - **Dependency Installation:** Dependencies are installed using `npm ci` for a clean and reproducible environment.
+
+3. **Testing and Linting:**  
+   - **Playwright Setup:** Required browsers are installed via Playwright for acceptance testing.
+   - **ESLint:** Code quality is enforced by running ESLint to catch potential static issues early.
+   - **End-to-End Tests:** Playwright tests are executed to validate the application's behavior.
+
+4. **Artifact Upload:**  
+   The Playwright test report is uploaded as an artifact (retained for 30 days) to assist in debugging and continuous improvement.
+
+5. **Deployment:**  
+   Once all tests pass, the updated application is deployed to Vercel, which leverages a serverless PostgreSQL database for high availability and efficient performance.
+
+### CI Pipeline Configuration
+
+```yaml
+name: ci-pineapple-spire
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+jobs:
+  test:
+    timeout-minutes: 60
+    runs-on: ubuntu-latest
+    environment: Production
+    env:
+      POSTGRES_PRISMA_URL: ${{ vars.POSTGRES_PRISMA_URL }}
+      POSTGRES_URL_NON_POOLING: ${{ vars.POSTGRES_URL_NON_POOLING }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: lts/*
+      - name: Install dependencies
+        run: npm ci
+      - name: Install Playwright Browsers
+        run: npx playwright install --with-deps
+      - name: Run ESLint
+        run: npm run lint
+      - name: Run Playwright Tests
+        run: npx playwright test
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: playwright-report
+          path: playwright-report/
+          retention-days: 30
+```
 
 ---
 
@@ -167,9 +263,9 @@ The development process for Pineapple-Spire adheres to [Issue Driven Project Man
 
 <ul>
   <li><a href="https://github.com/orgs/pineapple-spire/projects/1">Milestone 1</a></li>
-  <li><a href="https://github.com/orgs/pineapple-spire/projects/1">Milestone 2</a></li>
+  <li><a href="https://github.com/orgs/pineapple-spire/projects/2">Milestone 2</a></li>
+  <li><a href="https://github.com/orgs/pineapple-spire/projects/3">Milestone 3</a></li>
 </ul>
-
 
 ## Team
 
