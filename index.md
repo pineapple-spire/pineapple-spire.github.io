@@ -213,7 +213,7 @@ The development process for Pineapple-Spire adheres to [Issue Driven Project Man
   <img src="images/M3/Stress5.png" alt="Stress Test 5" width="600px">
 
   <h3>Registered Users Page (Admin)</h3>
-  <img src="images/M3/RegUsers.png" alt="Registered Users Page (Admin)" width="600px">
+  <img src="images/M3/RegisteredUsers.png" alt="Registered Users Page (Admin)" width="600px">
 </details>
 
 ---
