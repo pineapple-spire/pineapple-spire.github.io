@@ -90,10 +90,8 @@ The development process for Pineapple-Spire adheres to [Issue Driven Project Man
 
 ### Milestone Information
 
-> Click on milestone to expand.
-
 <details>
-  <summary><strong>Milestone 1</strong> &rArr;</summary>
+  <summary>👉 <strong>Milestone 1</strong> (Click to expand)</summary>
   <p><a href="https://github.com/orgs/pineapple-spire/projects/1">Milestone 1 Project Board</a></p>
   
   <h3>Landing Page</h3>
@@ -147,7 +145,7 @@ The development process for Pineapple-Spire adheres to [Issue Driven Project Man
 </details>
 
 <details>
-  <summary><strong>Milestone 2</strong> &rArr;</summary>
+  <summary>👉 <strong>Milestone 2</strong> (Click to expand)</summary>
   <p><a href="https://github.com/orgs/pineapple-spire/projects/2">Milestone 2 Project Board</a></p>
   
   <h3>Landing Page</h3>
@@ -173,8 +171,49 @@ The development process for Pineapple-Spire adheres to [Issue Driven Project Man
 </details>
 
 <details>
-  <summary><strong>Milestone 3</strong> &rArr;</summary>
+  <summary>👉 <strong>Milestone 3</strong> (Click to expand)</summary>
   <p><a href="https://github.com/orgs/pineapple-spire/projects/3">Milestone 3 Project Board</a></p>
+  
+  <h3>Landing Page</h3>
+  <img src="images/M3/Landing.png" alt="Landing Page" width="600px">
+  
+  <h3>Sign In Page</h3>
+  <img src="images/M3/Signin.png" alt="Sign In Page" width="600px">
+  
+  <h3>Sign Up Page</h3>
+  <img src="images/M3/Signup.png" alt="Sign Up Page" width="600px">
+  
+  <h3>About Page</h3>
+  <img src="images/M3/About.png" alt="About Page" width="600px">
+  
+  <h3>Financial Compilation Page</h3>
+  <img src="images/M3/FC.png" alt="Financial Compilation Page" width="600px">
+
+  <h3>Financial Compilation Options</h3>
+  <img src="images/M3/FCOptions.png" alt="Financial Compilation Options" width="600px">
+  
+  <h3>Fiscal Sustainability Model Page</h3>
+  <img src="images/M3/FSM.png" alt="Fiscal Sustainability Model Page" width="600px">
+
+  <h3>Stress Test Tool Options</h3>
+
+  <h4>Stress Test 1</h4>
+  <img src="images/M3/Stress1.png" alt="Stress Test 1" width="600px">
+
+  <h4>Stress Test 2</h4>
+  <img src="images/M3/Stress2.png" alt="Stress Test 2" width="600px">
+
+  <h4>Stress Test 3</h4>
+  <img src="images/M3/Stress3.png" alt="Stress Test 3" width="600px">
+
+  <h4>Stress Test 4</h4>
+  <img src="images/M3/Stress4.png" alt="Stress Test 4" width="600px">
+
+  <h4>Stress Test 5</h4>
+  <img src="images/M3/Stress5.png" alt="Stress Test 5" width="600px">
+
+  <h3>Registered Users Page (Admin)</h3>
+  <img src="images/M3/RegUsers.png" alt="Registered Users Page (Admin)" width="600px">
 </details>
 
 ---
@@ -206,6 +245,7 @@ Our project leverages GitHub Actions to automate our continuous integration (CI)
 
 ### CI Pipeline Configuration
 
+{% raw %}
 ```yaml
 name: ci-pineapple-spire
 on:
@@ -241,6 +281,7 @@ jobs:
           path: playwright-report/
           retention-days: 30
 ```
+{% endraw %}
 
 ---
 
@@ -262,6 +303,8 @@ jobs:
   <li><a href="https://github.com/orgs/pineapple-spire/projects/1">Milestone 1</a></li>
   <li><a href="https://github.com/orgs/pineapple-spire/projects/2">Milestone 2</a></li>
   <li><a href="https://github.com/orgs/pineapple-spire/projects/3">Milestone 3</a></li>
+  <li><a href="https://github.com/orgs/pineapple-spire/projects/5">Milestone 4</a></li>
+
 </ul>
 
 ## Team
