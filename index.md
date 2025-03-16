@@ -241,13 +241,16 @@ The development process for Pineapple-Spire adheres to [Issue Driven Project Man
   <h3>Stress Test Tool Options</h3>
 
   <h4>Stress Test 1</h4>
-
-  <strong>Example 1</strong>
-  <img src="images/M4/s1a.png" alt="Stress Test 1 (a)" width="600px">
-
-  <strong>Example 2</strong>
-  <img src="images/M4/s1b.png" alt="Stress Test 1 (b)" width="600px">
-
+  <div>
+    <strong>Example 1</strong>
+    <br/>
+    <img src="images/M4/s1a.png" alt="Stress Test 1 (a)" width="600px">
+  </div>
+  <div>
+    <strong>Example 2</strong>
+    <br/>
+    <img src="images/M4/s1b.png" alt="Stress Test 1 (b)" width="600px">
+  </div>
   <h4>Stress Test 2</h4>
   <img src="images/M4/s2.png" alt="Stress Test 2" width="600px">
 
