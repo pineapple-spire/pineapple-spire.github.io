@@ -38,7 +38,7 @@ Pineapple-Spire is designed to create an optimized **Financial Sustainability Mo
 
 ## User Guide
 
-This section provides a walkthrough of the Pineapple-Spire user interface and its capabilities.
+This section provides a walkthrough of the *Pineapple-Spire* user interface and its capabilities.
 
 ### Landing Page
 
@@ -58,7 +58,7 @@ The landing page is presented to users when they visit the site's top-level URL.
 
 ### Financial Compilation Page
 
-The financial compilation page features a 12 year forecast output of various financial information. Users are able to calculate their 12 year forecast by choosing if they want to view their data using the average of the past three years information or use a percent multiplier from 0-100%.
+The financial compilation page features a x-year ($x \in [1, 99]$) forecast output of various financial information. Users are able to calculate their x-year forecast by choosing if they want to view their data using the average of the past three years information or use a percent multiplier from 0-100%.
 
 ---
 
@@ -72,7 +72,7 @@ The financial compilation page features a 12 year forecast output of various fin
 
 ### Quality Assurance
 
-(Quality assurance processes and standards.)
+The deployment pipeline incorporates quality assurance measures. It executes Playwright acceptance tests, such as verifying that routes return a 200 OK response, and enforces thorough ESLint static analysis to ensure code quality and consistency.
 
 ---
 
@@ -216,6 +216,51 @@ The development process for Pineapple-Spire adheres to [Issue Driven Project Man
   <img src="images/M3/RegisteredUsers.png" alt="Registered Users Page (Admin)" width="600px">
 </details>
 
+<details>
+  <summary>👉 <strong>Milestone 4</strong> (Click to expand)</summary>
+  <p><a href="https://github.com/orgs/pineapple-spire/projects/5">Milestone 4 Project Board</a></p>
+  
+  <h3>Landing Page</h3>
+  <img src="images/M4/landing.png" alt="Landing Page" width="600px">
+  
+  <h3>Sign In Page</h3>
+  <img src="images/M4/signin.png" alt="Sign In Page" width="600px">
+  
+  <h3>Sign Up Page</h3>
+  <img src="images/M4/signup.png" alt="Sign Up Page" width="600px">
+  
+  <h3>About Page</h3>
+  <img src="images/M4/about.png" alt="About Page" width="600px">
+  
+  <h3>Financial Compilation Page</h3>
+  <img src="images/M4/fc.png" alt="Financial Compilation Page" width="600px">
+  
+  <h3>Fiscal Sustainability Model Page</h3>
+  <img src="images/M4/fsm.png" alt="Fiscal Sustainability Model Page" width="600px">
+
+  <h3>Stress Test Tool Options</h3>
+
+  <h4>Stress Test 1</h4>
+
+  **Example 1**
+  <img src="images/M4/s1a.png" alt="Stress Test 1 (a)" width="600px">
+
+  **Example 2**
+  <img src="images/M4/s1b.png" alt="Stress Test 1 (b)" width="600px">
+
+  <h4>Stress Test 2</h4>
+  <img src="images/M4/s2.png" alt="Stress Test 2" width="600px">
+
+  <h4>Stress Test 3</h4>
+  <img src="images/M4/s3.png" alt="Stress Test 3" width="600px">
+
+  <h4>Stress Test 4</h4>
+  <img src="images/M4/s4.png" alt="Stress Test 4" width="600px">
+
+  <h4>Stress Test 5</h4>
+  <img src="images/M4/s5.png" alt="Stress Test 5" width="600px">
+</details>
+
 ---
 
 ## Continuous Integration
@@ -297,14 +342,14 @@ jobs:
 
 ---
 
-## Milestones
+## Milestone Boards
 
 <ul>
   <li><a href="https://github.com/orgs/pineapple-spire/projects/1">Milestone 1</a></li>
   <li><a href="https://github.com/orgs/pineapple-spire/projects/2">Milestone 2</a></li>
   <li><a href="https://github.com/orgs/pineapple-spire/projects/3">Milestone 3</a></li>
   <li><a href="https://github.com/orgs/pineapple-spire/projects/5">Milestone 4</a></li>
-
+  <li><a href="https://github.com/orgs/pineapple-spire/projects/7">Milestone 5</a></li>
 </ul>
 
 ## Team
