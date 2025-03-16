@@ -242,10 +242,10 @@ The development process for Pineapple-Spire adheres to [Issue Driven Project Man
 
   <h4>Stress Test 1</h4>
 
-  **Example 1**
+  <strong>Example 1</strong>
   <img src="images/M4/s1a.png" alt="Stress Test 1 (a)" width="600px">
 
-  **Example 2**
+  <strong>Example 2</strong>
   <img src="images/M4/s1b.png" alt="Stress Test 1 (b)" width="600px">
 
   <h4>Stress Test 2</h4>
