@@ -264,6 +264,47 @@ The development process for Pineapple-Spire adheres to [Issue Driven Project Man
   <img src="images/M4/s5.png" alt="Stress Test 5" width="600px">
 </details>
 
+<details>
+  <summary>👉 <strong>Milestone 5</strong> (Click to expand)</summary>
+  <p><a href="https://github.com/orgs/pineapple-spire/projects/7">Milestone 5 Project Board</a></p>
+  
+  <h3>Landing Page</h3>
+  <h4>Unauthenticated</h4>
+  <img src="images/M5/landing1.png" alt="Landing Page Unauth" width="600px">
+  <h4>Authenticated</h4>
+  <img src="images/M5/landing2.png" alt="Landing Page Auth" width="600px">
+  
+  <h3>Sign In Page</h3>
+  <img src="images/M5/signin.png" alt="Sign In Page" width="600px">
+  
+  <h3>Sign Up Page</h3>
+  <img src="images/M5/signup.png" alt="Sign Up Page" width="600px">
+  
+  <h3>About Page</h3>
+  <img src="images/M5/about.png" alt="About Page" width="600px">
+
+  <h3>Admin Page</h3>
+  <img src="images/M5/admin.png" alt="Admin Page" width="600px">
+
+  <h3>Audit Page</h3>
+  <img src="images/M5/audit.png" alt="Audit Page" width="600px">
+  
+  <h3>Financial Compilation Page</h3>
+  <img src="images/M5/fc.png" alt="Financial Compilation Page" width="600px">
+  
+  <h3>Fiscal Sustainability Model Page</h3>
+  <img src="images/M5/fsm.png" alt="Fiscal Sustainability Model Page" width="600px">
+
+  <h3>Contact Us Page</h3>
+  <img src="images/M5/contact.png" alt="Contact Page" width="600px">
+
+  <h3>Report A Problem Page</h3>
+  <img src="images/M5/report.png" alt="Report Page" width="600px">
+
+  <h3>Stress Test Tool Options</h3>
+  <img src="images/M5/stress.png" alt="Contact Page" width="600px">
+</details>
+
 ---
 
 ## Continuous Integration
@@ -353,6 +394,7 @@ jobs:
   <li><a href="https://github.com/orgs/pineapple-spire/projects/3">Milestone 3</a></li>
   <li><a href="https://github.com/orgs/pineapple-spire/projects/5">Milestone 4</a></li>
   <li><a href="https://github.com/orgs/pineapple-spire/projects/7">Milestone 5</a></li>
+  <li><a href="https://github.com/orgs/pineapple-spire/projects/8">Milestone 6</a></li>
 </ul>
 
 ## Team
@@ -365,7 +407,6 @@ The project was designed, implemented, and maintained by:
 - [Jake Dickinson](https://jaked332.github.io/)
 - [Eden Parungao](https://edenkp.github.io/)
 - [Shane Baclig](https://uhm-shaneb.github.io/)
-- [Zachary Stoddard](https://hcazzz.github.io/)
 
 ---
 
