@@ -64,7 +64,7 @@ The financial compilation page features a x-year ($x \in [1, 99]$) forecast outp
 
 ## Community Feedback
 
-(Information about community feedback and how it is incorporated into development.)
+<Feedback>
 
 ---
 
@@ -84,7 +84,7 @@ The development process for Pineapple-Spire adheres to [Issue Driven Project Man
 - Each milestone consists of a set of tasks.
 - Tasks are described using GitHub Issues and assigned to individual developers.
 - Tasks typically involve work that can be completed in **2-4 days**.
-- Each task is developed in a separate Git branch named `issue-XX`, where `XX` is the issue number.
+- Each task is developed in a separate Git branch named `issue-XXX`, where `XXX` is the issue number.
 - Once a task is complete, its corresponding issue is closed, and the branch is merged into `master`.
 - Task statuses (To Do, In Progress, Complete) are managed via a GitHub Project Board.
 
@@ -305,6 +305,45 @@ The development process for Pineapple-Spire adheres to [Issue Driven Project Man
   <img src="images/M5/stress.png" alt="Contact Page" width="600px">
 </details>
 
+
+<details>
+  <summary>👉 <strong>Milestone 6</strong> (Click to expand)</summary>
+  <p><a href="https://github.com/orgs/pineapple-spire/projects/8">Milestone 6 Project Board</a></p>
+  
+  <h3>Landing Page</h3>
+  <img src="images/M6/landing.png" alt="Landing Page Unauth" width="600px">
+  
+  <h3>Sign In Page</h3>
+  <img src="images/M6/signin.png" alt="Sign In Page" width="600px">
+  
+  <h3>Sign Up Page</h3>
+  <img src="images/M6/signup.png" alt="Sign Up Page" width="600px">
+
+  <h3>Change Password</h3>
+  <img src="images/M6/change.png" alt="Change Pwd Page" width="600px">
+
+  <h3>Admin Page</h3>
+  <img src="images/M6/admin.png" alt="Admin Page" width="600px">
+
+  <h3>Audit Page</h3>
+  <img src="images/M6/audit.png" alt="Audit Page" width="600px">
+  
+  <h3>Financial Compilation Page</h3>
+  <img src="images/M6/fc.png" alt="Financial Compilation Page" width="600px">
+  
+  <h3>Fiscal Sustainability Model Page</h3>
+  <img src="images/M6/fsm.png" alt="Fiscal Sustainability Model Page" width="600px">
+
+  <h3>Contact Us Page</h3>
+  <img src="images/M6/contact.png" alt="Contact Page" width="600px">
+
+  <h3>Report A Problem Page</h3>
+  <img src="images/M6/report.png" alt="Report Page" width="600px">
+
+  <h3>Stress Test Tool Options</h3>
+  <img src="images/M6/stress.png" alt="Contact Page" width="600px">
+</details>
+
 ---
 
 ## Continuous Integration
@@ -395,6 +434,7 @@ jobs:
   <li><a href="https://github.com/orgs/pineapple-spire/projects/5">Milestone 4</a></li>
   <li><a href="https://github.com/orgs/pineapple-spire/projects/7">Milestone 5</a></li>
   <li><a href="https://github.com/orgs/pineapple-spire/projects/8">Milestone 6</a></li>
+  <li><a href="https://github.com/orgs/pineapple-spire/projects/9">Milestone 7</a></li>
 </ul>
 
 ## Team
