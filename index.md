@@ -64,7 +64,7 @@ The financial compilation page features a x-year ($x \in [1, 99]$) forecast outp
 
 ## Community Feedback
 
-<Feedback>
+(Feedback)
 
 ---
 
