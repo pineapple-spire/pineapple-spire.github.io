@@ -1,4 +1,4 @@
-# Pineapple-Spire
+# Pineapple Spire
 
 [![pineapple-spire-ci](https://github.com/pineapple-spire/pineapple-spire/actions/workflows/ci.yml/badge.svg)](https://github.com/pineapple-spire/pineapple-spire/actions/workflows/ci.yml)
 
@@ -6,19 +6,15 @@
 
 - [Overview](#overview)
 - [Deployment](#deployment)
-- [User Guide](#user-guide)
-  - [Landing Page](#landing-page)
-  - [Index Pages](#index-pages)
-  - [Sign In and Sign Up](#sign-in-and-sign-up)
-  - [Home Page](#home-page)
-  - [Financial Compilation Page](#fc-page)
-- [Community Feedback](#community-feedback)
+- [Website Guide](#website-guide)
+  - [Users Guide](#users-guide)
+  - [Analyst Guide](#analyst-guide)
+  - [Auditor Guide](#auditor-guide)
+  - [Admin Guide](#admin-guide)
 - [Developer Guide](#developer-guide)
   - [Quality Assurance](#quality-assurance)
 - [Development History](#development-history)
 - [Continuous Integration](#continuous-integration)
-- [Walkthrough Videos](#walkthrough-videos)
-- [Example Enhancements](#example-enhancements)
 - [Team](#team)
 - [Team Contract](#team-contract)
 
@@ -26,45 +22,164 @@
 
 ## Overview
 
-Pineapple-Spire is designed to create an optimized **Financial Sustainability Model**, integrating it into a web-based platform with a user-friendly interface.
+Pineapple Spire is designed to create an optimized **Financial Sustainability Model**, integrating it into a web-based platform with a user-friendly interface.
 
 ---
 
 ## Deployment
 
-(Details about deployment will go here.)
+Pineapple Spire is deployed here: https://pineapple-spire-lemon.vercel.app/ 
 
 ---
 
-## User Guide
+## Website Guide
 
-This section provides a walkthrough of the *Pineapple-Spire* user interface and its capabilities.
+<details>
+  <summary>👉 <strong>Users Guide</strong> (Click to expand)</summary>
 
-### Landing Page
+  This section provides a walkthrough of the Pineapple Spire user interface and its capabilities.
 
-The landing page is presented to users when they visit the site's top-level URL. This page allows users to navigate the specific financial analysis tooling the application covers.
+  ### Landing Page
 
-### Index Pages
+  When users first arrive to Pineapple Spire, they must login into their account in order to use any financial modeling tools.
 
-(Details about index pages.)
+  <img src="images/user-guide/landing-page-no-login.png" alt="Landing Page no login" width="600px">
 
-### Sign In and Sign Up
 
-(Details about the sign-in and sign-up process.)
+  After users login, they will be able to use the fiscal sustainability model and the stress test tools as seen in the image below.
 
-### Home Page
+  <img src="images/user-guide/landing-page-user-login.png" alt="Landing Page user login" width="600px">
 
-(Details about the home page features.)
+  ### Sign In
 
-### Financial Compilation Page
+  To sign in, when users are on the landing page, they can click on the "Login" button located on the top right of the landing page, then click on "Sign In."
 
-The financial compilation page features a x-year ($x \in [1, 99]$) forecast output of various financial information. Users are able to calculate their x-year forecast by choosing if they want to view their data using the average of the past three years information or use a percent multiplier from 0-100%.
+  <img src="images/user-guide/user-sign-in.png" alt="Landing Page user login" width="600px">
 
----
+  After users click on "Sign In", it will take them to the sign in page which then they can enter their email and password for Pineapple Spire, then click on the "Sign In" button located below the email and password input.
 
-## Community Feedback
+  <img src="images/user-guide/user-sign-in-page.png" alt="Landing Page user login" width="600px">  
 
-(Feedback)
+  ### Sign Out
+
+  To sign out, users can click on the top right where they see their email and click "Sign Out."
+
+  <img src="images/user-guide/user-sign-out.png" alt="Sign out button" width="600px">
+
+  Then they will be presented with the option to either sign out for sure or to cancel their decision. To sign out, users can click on the left button, "Yes! Sign out." or to cancel, users can click on the right button, "Cancel."
+
+  <img src="images/user-guide/user-sign-out-confirm.png" alt="Sign out confirmation page" width="600px">
+
+  ### Sign Up
+
+  If users need to make an account, from the landing page, they can click on the login button located on the top right, then click on "Sign Up" and it will take them to the sign up page. Here, users can put in their first and last name, email, username, password and then confirming their password.
+
+  <img src="images/user-guide/sign-up.png" alt="Sign up page" width="600px">
+
+  Users can also access the sign up page through the sign in page underneath the sign in button.
+
+  <img src="images/user-guide/user-sign-in-page.png" alt="Sign up page" width="600px">
+
+  ### Change Password
+
+  The user is able to change their account password by clicking on their email located on the top right of the page and then clicking on the "Change Password" button.
+
+  From there, the change password page is shown and the user will be able to change their password from there.
+
+  <img src="images/user-guide/change-password.png" alt="Change password page" width="600px">
+
+  ### Financial Sustainability Model
+
+  Users can view the financial sustainability model. For each stress test, they can pick what version of the stress test they want to see and also pick how many years they want to forecast. To see the years the do not fit on the table, the user can click the next or previous buttons. 
+
+  <img src="images/user-guide/sm-page.png" alt="Financial Sustainability Modal page" width="600px">
+
+  ### Stress Tests Editor
+
+  Users can view the stress tests editor page. They will be able to forecast five different stress tests scenarios.
+
+  Each scenario have different value inputs that the user can change to fit what they want to forecast.
+
+  To view the different stress test options, the user can click on the "Stress Test 1" button and change to see other stress tests and even their custom stress tests.
+
+  To save any changed values, the user can click on "Save Scenario" and any changes will be displayed in the graphs, tables, and the sustainability model page as well.
+
+  <img src="images/user-guide/stress-test-page.png" alt="Financial Sustainability Modal page" width="600px">
+
+  Each stress test page will also show a graph and table that will forecast the stress effects.
+
+  <img src="images/user-guide/stress-test-graphs-tables.png" alt="Financial Sustainability Modal page" width="600px">
+
+  Each stress test page will also have the option to show the residual effects.
+
+  <img src="images/user-guide/stress-test-residual.png" alt="Financial Sustainability Modal page" width="600px">
+
+</details>
+
+<details>
+  <summary>👉 <strong>Analyst Guide</strong> (Click to expand)</summary>
+
+  This section provides a walkthrough of the Pineapple Spire analyst interface and its capabilities.
+
+  The analyst has the same capabilities as the user with aditional features.
+
+  ### Financial Compilation Page
+
+  The analyst is able to use the financial compilation page. The financial compilation page features a x-year ($x \in [1, 99]$) forecast output of various financial information. Users are able to calculate their x-year forecast by choosing if they want to view their data using the average of the past three years information or use a percent multiplier from 0-100%.
+
+  The user is able to toggle between the table view or a graph view for each financial category.
+
+  The user is also able to choose what financial category to look at by checking on and off the boxes located on the top of the page. Users are also able to toggle on and off the heatmap.
+
+  The user is also able to save these changes to the financial compilation page and these changes will be reflected on the sustainability model page.
+
+  <img src="images/user-guide/fc-page.png" alt="Financial Compilation page" width="600px">
+
+  <img src="images/M7/fc-graphs.png" alt="Financial Compilation Page" width="600px">
+
+  ### View Audit Data
+
+  The analyst is able to view the audited data but unable to edit the data.
+
+  <img src="images/user-guide/view-audit-data.png" alt="Viewing audited data" width="600px">
+
+  ### Support Requests
+
+  The analyst is able to view support requests. They would be able to view contact messages and reported problems.
+
+  Once these problems and messages have been addressed, the user can archieve the message or marked it as resolved.
+
+  <img src="images/user-guide/support-requests.png" alt="Viewing audited data" width="600px">
+
+</details>
+
+<details>
+  <summary>👉 <strong>Auditor Guide</strong> (Click to expand)</summary>
+
+  This section provides a walkthrough of the Pineapple Spire auditor interface and its capabilities.
+
+  The auditor has the same capabilities as the user and analyst, minus the ability to view support requests. However, they are able to view and edit audited data.
+
+  The auditor is able to view the audit data page and edit any values as needed, then save the changes.
+
+  <img src="images/user-guide/auditor-page.png" alt="Viewing audited page" width="600px">
+
+</details>
+
+<details>
+  <summary>👉 <strong>Admin Guide</strong> (Click to expand)</summary>
+
+  This section provides a walkthrough of the Pineapple Spire admin interface and its capabilities.
+
+  The admin has the same capabilities as the user and analyst with additional features.
+
+  ### Admin Page
+
+  The admin is able to view the admin page where they can see all registered users. The admin is able to change the users role or delete the users account.
+
+  <img src="images/user-guide/admin-page.png" alt="Admin page" width="600px">
+
+</details>
 
 ---
 
@@ -344,6 +459,47 @@ The development process for Pineapple-Spire adheres to [Issue Driven Project Man
   <img src="images/M6/stress.png" alt="Contact Page" width="600px">
 </details>
 
+<details>
+  <summary>👉 <strong>Milestone 7</strong> (Click to expand)</summary>
+  <p><a href="https://github.com/orgs/pineapple-spire/projects/9">Milestone 7 Project Board</a></p>
+  
+  <h3>Landing Page</h3>
+  <img src="images/M7/landing-page-user-login.png" alt="Landing Page" width="600px">
+  
+  <h3>Sign In Page</h3>
+  <img src="images/M7/user-sign-in-page.png" alt="Sign In Page" width="600px">
+  
+  <h3>Sign Up Page</h3>
+  <img src="images/M7/sign-up.png" alt="Sign Up Page" width="600px">
+
+  <h3>Change Password</h3>
+  <img src="images/M7/change-password.png" alt="Change Pwd Page" width="600px">
+
+  <h3>Admin Page</h3>
+  <img src="images/M7/admin-page.png" alt="Admin Page" width="600px">
+
+  <h3>Audit Page</h3>
+  <img src="images/M7/auditor-page.png" alt="Audit Page" width="600px">
+  
+  <h3>Financial Compilation Page</h3>
+  <img src="images/M7/fc-page.png" alt="Financial Compilation Page" width="600px">
+  <img src="images/M7/fc-graphs.png" alt="Financial Compilation Page" width="600px">
+  
+  <h3>Fiscal Sustainability Model Page</h3>
+  <img src="images/M7/sm-page.png" alt="Fiscal Sustainability Model Page" width="600px">
+
+  <h3>Contact Us Page</h3>
+  <img src="images/M6/contact.png" alt="Contact Page" width="600px">
+
+  <h3>Report A Problem Page</h3>
+  <img src="images/M6/report.png" alt="Report Page" width="600px">
+
+  <h3>Stress Test Tool Options</h3>
+  <img src="images/M7/stress-test-page.png" alt="Contact Page" width="600px">
+  <img src="images/M7/stress-test-graphs-tables.png" alt="Contact Page" width="600px">
+  <img src="images/M7/stress-test-residual.png" alt="Contact Page" width="600px">
+</details>
+
 ---
 
 ## Continuous Integration
@@ -410,18 +566,6 @@ jobs:
           retention-days: 30
 ```
 {% endraw %}
-
----
-
-## Walkthrough Videos
-
-(Links and descriptions of walkthrough videos showcasing the project.)
-
----
-
-## Example Enhancements
-
-(Examples of potential enhancements or feature improvements.)
 
 ---
 
