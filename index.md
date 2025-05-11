@@ -2,22 +2,6 @@
 
 [![pineapple-spire-ci](https://github.com/pineapple-spire/pineapple-spire/actions/workflows/ci.yml/badge.svg)](https://github.com/pineapple-spire/pineapple-spire/actions/workflows/ci.yml)
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Deployment](#deployment)
-- [Website Guide](#website-guide)
-  - [Users Guide](#users-guide)
-  - [Analyst Guide](#analyst-guide)
-  - [Auditor Guide](#auditor-guide)
-  - [Admin Guide](#admin-guide)
-- [Developer Guide](#developer-guide)
-  - [Quality Assurance](#quality-assurance)
-- [Development History](#development-history)
-- [Continuous Integration](#continuous-integration)
-- [Team](#team)
-- [Team Contract](#team-contract)
-
 ---
 
 ## Overview
@@ -39,7 +23,7 @@ Pineapple Spire is deployed here: https://pineapple-spire-lemon.vercel.app/
 
   This section provides a walkthrough of the Pineapple Spire user interface and its capabilities.
 
-  ### Landing Page
+  <h3>Landing Page</h3>
 
   When users first arrive to Pineapple Spire, they must login into their account in order to use any financial modeling tools.
 
@@ -50,7 +34,7 @@ Pineapple Spire is deployed here: https://pineapple-spire-lemon.vercel.app/
 
   <img src="images/user-guide/landing-page-user-login.png" alt="Landing Page user login" width="600px">
 
-  ### Sign In
+  <h3>Sign In</h3>
 
   To sign in, when users are on the landing page, they can click on the "Login" button located on the top right of the landing page, then click on "Sign In."
 
@@ -60,7 +44,7 @@ Pineapple Spire is deployed here: https://pineapple-spire-lemon.vercel.app/
 
   <img src="images/user-guide/user-sign-in-page.png" alt="Landing Page user login" width="600px">  
 
-  ### Sign Out
+  <h3>Sign Out</h3>
 
   To sign out, users can click on the top right where they see their email and click "Sign Out."
 
@@ -70,7 +54,7 @@ Pineapple Spire is deployed here: https://pineapple-spire-lemon.vercel.app/
 
   <img src="images/user-guide/user-sign-out-confirm.png" alt="Sign out confirmation page" width="600px">
 
-  ### Sign Up
+  <h3>Sign Up</h3>
 
   If users need to make an account, from the landing page, they can click on the login button located on the top right, then click on "Sign Up" and it will take them to the sign up page. Here, users can put in their first and last name, email, username, password and then confirming their password.
 
@@ -80,7 +64,7 @@ Pineapple Spire is deployed here: https://pineapple-spire-lemon.vercel.app/
 
   <img src="images/user-guide/user-sign-in-page.png" alt="Sign up page" width="600px">
 
-  ### Change Password
+  <h3>Change Password</h3>
 
   The user is able to change their account password by clicking on their email located on the top right of the page and then clicking on the "Change Password" button.
 
@@ -88,13 +72,13 @@ Pineapple Spire is deployed here: https://pineapple-spire-lemon.vercel.app/
 
   <img src="images/user-guide/change-password.png" alt="Change password page" width="600px">
 
-  ### Financial Sustainability Model
+  <h3>Financial Sustainability Model</h3>
 
   Users can view the financial sustainability model. For each stress test, they can pick what version of the stress test they want to see and also pick how many years they want to forecast. To see the years the do not fit on the table, the user can click the next or previous buttons. 
 
   <img src="images/user-guide/sm-page.png" alt="Financial Sustainability Modal page" width="600px">
 
-  ### Stress Tests Editor
+  <h3>Stress Tests Editor</h3>
 
   Users can view the stress tests editor page. They will be able to forecast five different stress tests scenarios.
 
@@ -123,7 +107,7 @@ Pineapple Spire is deployed here: https://pineapple-spire-lemon.vercel.app/
 
   The analyst has the same capabilities as the user with aditional features.
 
-  ### Financial Compilation Page
+  <h3>Financial Compilation Page</h3>
 
   The analyst is able to use the financial compilation page. The financial compilation page features a x-year ($x \in [1, 99]$) forecast output of various financial information. Users are able to calculate their x-year forecast by choosing if they want to view their data using the average of the past three years information or use a percent multiplier from 0-100%.
 
@@ -137,13 +121,13 @@ Pineapple Spire is deployed here: https://pineapple-spire-lemon.vercel.app/
 
   <img src="images/M7/fc-graphs.png" alt="Financial Compilation Page" width="600px">
 
-  ### View Audit Data
+  <h3>View Audit Data</h3>
 
   The analyst is able to view the audited data but unable to edit the data.
 
   <img src="images/user-guide/view-audit-data.png" alt="Viewing audited data" width="600px">
 
-  ### Support Requests
+  <h3>Support Requests</h3>
 
   The analyst is able to view support requests. They would be able to view contact messages and reported problems.
 
@@ -173,7 +157,7 @@ Pineapple Spire is deployed here: https://pineapple-spire-lemon.vercel.app/
 
   The admin has the same capabilities as the user and analyst with additional features.
 
-  ### Admin Page
+  <h3>Admin Page</h3>
 
   The admin is able to view the admin page where they can see all registered users. The admin is able to change the users role or delete the users account.
 
