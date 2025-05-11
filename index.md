@@ -21,80 +21,80 @@ Pineapple Spire is deployed here: https://pineapple-spire-lemon.vercel.app/
 <details>
   <summary>👉 <strong>Users Guide</strong> (Click to expand)</summary>
 
-  This section provides a walkthrough of the Pineapple Spire user interface and its capabilities.
+  <p>This section provides a walkthrough of the Pineapple Spire user interface and its capabilities.</p>
 
   <h3>Landing Page</h3>
 
-  When users first arrive to Pineapple Spire, they must login into their account in order to use any financial modeling tools.
+  <p>When users first arrive to Pineapple Spire, they must login into their account in order to use any financial modeling tools.</p>
 
   <img src="images/user-guide/landing-page-no-login.png" alt="Landing Page no login" width="600px">
 
 
-  After users login, they will be able to use the fiscal sustainability model and the stress test tools as seen in the image below.
+  <p>After users login, they will be able to use the fiscal sustainability model and the stress test tools as seen in the image below.</p>
 
   <img src="images/user-guide/landing-page-user-login.png" alt="Landing Page user login" width="600px">
 
   <h3>Sign In</h3>
 
-  To sign in, when users are on the landing page, they can click on the "Login" button located on the top right of the landing page, then click on "Sign In."
+  <p>To sign in, when users are on the landing page, they can click on the "Login" button located on the top right of the landing page, then click on "Sign In."</p>
 
   <img src="images/user-guide/user-sign-in.png" alt="Landing Page user login" width="600px">
 
-  After users click on "Sign In", it will take them to the sign in page which then they can enter their email and password for Pineapple Spire, then click on the "Sign In" button located below the email and password input.
+  <p>After users click on "Sign In", it will take them to the sign in page which then they can enter their email and password for Pineapple Spire, then click on the "Sign In" button located below the email and password input.</p>
 
   <img src="images/user-guide/user-sign-in-page.png" alt="Landing Page user login" width="600px">  
 
   <h3>Sign Out</h3>
 
-  To sign out, users can click on the top right where they see their email and click "Sign Out."
+  <p>To sign out, users can click on the top right where they see their email and click "Sign Out."</p>
 
   <img src="images/user-guide/user-sign-out.png" alt="Sign out button" width="600px">
 
-  Then they will be presented with the option to either sign out for sure or to cancel their decision. To sign out, users can click on the left button, "Yes! Sign out." or to cancel, users can click on the right button, "Cancel."
+  <p>Then they will be presented with the option to either sign out for sure or to cancel their decision. To sign out, users can click on the left button, "Yes! Sign out." or to cancel, users can click on the right button, "Cancel."</p>
 
   <img src="images/user-guide/user-sign-out-confirm.png" alt="Sign out confirmation page" width="600px">
 
   <h3>Sign Up</h3>
 
-  If users need to make an account, from the landing page, they can click on the login button located on the top right, then click on "Sign Up" and it will take them to the sign up page. Here, users can put in their first and last name, email, username, password and then confirming their password.
+  <p>If users need to make an account, from the landing page, they can click on the login button located on the top right, then click on "Sign Up" and it will take them to the sign up page. Here, users can put in their first and last name, email, username, password and then confirming their password.</p>
 
   <img src="images/user-guide/sign-up.png" alt="Sign up page" width="600px">
 
-  Users can also access the sign up page through the sign in page underneath the sign in button.
+  <p>Users can also access the sign up page through the sign in page underneath the sign in button.</p>
 
   <img src="images/user-guide/user-sign-in-page.png" alt="Sign up page" width="600px">
 
   <h3>Change Password</h3>
 
-  The user is able to change their account password by clicking on their email located on the top right of the page and then clicking on the "Change Password" button.
+  <p>The user is able to change their account password by clicking on their email located on the top right of the page and then clicking on the "Change Password" button.
 
-  From there, the change password page is shown and the user will be able to change their password from there.
+  From there, the change password page is shown and the user will be able to change their password from there.</p>
 
   <img src="images/user-guide/change-password.png" alt="Change password page" width="600px">
 
   <h3>Financial Sustainability Model</h3>
 
-  Users can view the financial sustainability model. For each stress test, they can pick what version of the stress test they want to see and also pick how many years they want to forecast. To see the years the do not fit on the table, the user can click the next or previous buttons. 
+  <p>Users can view the financial sustainability model. For each stress test, they can pick what version of the stress test they want to see and also pick how many years they want to forecast. To see the years the do not fit on the table, the user can click the next or previous buttons.</p>
 
   <img src="images/user-guide/sm-page.png" alt="Financial Sustainability Modal page" width="600px">
 
   <h3>Stress Tests Editor</h3>
 
-  Users can view the stress tests editor page. They will be able to forecast five different stress tests scenarios.
+  <p>Users can view the stress tests editor page. They will be able to forecast five different stress tests scenarios.
 
   Each scenario have different value inputs that the user can change to fit what they want to forecast.
 
   To view the different stress test options, the user can click on the "Stress Test 1" button and change to see other stress tests and even their custom stress tests.
 
-  To save any changed values, the user can click on "Save Scenario" and any changes will be displayed in the graphs, tables, and the sustainability model page as well.
+  To save any changed values, the user can click on "Save Scenario" and any changes will be displayed in the graphs, tables, and the sustainability model page as well.</p>
 
   <img src="images/user-guide/stress-test-page.png" alt="Financial Sustainability Modal page" width="600px">
 
-  Each stress test page will also show a graph and table that will forecast the stress effects.
+  <p>Each stress test page will also show a graph and table that will forecast the stress effects.</p>
 
   <img src="images/user-guide/stress-test-graphs-tables.png" alt="Financial Sustainability Modal page" width="600px">
 
-  Each stress test page will also have the option to show the residual effects.
+  <p>Each stress test page will also have the option to show the residual effects.</p>
 
   <img src="images/user-guide/stress-test-residual.png" alt="Financial Sustainability Modal page" width="600px">
 
@@ -103,19 +103,19 @@ Pineapple Spire is deployed here: https://pineapple-spire-lemon.vercel.app/
 <details>
   <summary>👉 <strong>Analyst Guide</strong> (Click to expand)</summary>
 
-  This section provides a walkthrough of the Pineapple Spire analyst interface and its capabilities.
+  <p>This section provides a walkthrough of the Pineapple Spire analyst interface and its capabilities.
 
-  The analyst has the same capabilities as the user with aditional features.
+  The analyst has the same capabilities as the user with aditional features.</p>
 
   <h3>Financial Compilation Page</h3>
 
-  The analyst is able to use the financial compilation page. The financial compilation page features a x-year ($x \in [1, 99]$) forecast output of various financial information. Users are able to calculate their x-year forecast by choosing if they want to view their data using the average of the past three years information or use a percent multiplier from 0-100%.
+  <p>The analyst is able to use the financial compilation page. The financial compilation page features a x-year ($x \in [1, 99]$) forecast output of various financial information. Users are able to calculate their x-year forecast by choosing if they want to view their data using the average of the past three years information or use a percent multiplier from 0-100%.
 
   The user is able to toggle between the table view or a graph view for each financial category.
 
   The user is also able to choose what financial category to look at by checking on and off the boxes located on the top of the page. Users are also able to toggle on and off the heatmap.
 
-  The user is also able to save these changes to the financial compilation page and these changes will be reflected on the sustainability model page.
+  The user is also able to save these changes to the financial compilation page and these changes will be reflected on the sustainability model page.</p>
 
   <img src="images/user-guide/fc-page.png" alt="Financial Compilation page" width="600px">
 
@@ -123,15 +123,15 @@ Pineapple Spire is deployed here: https://pineapple-spire-lemon.vercel.app/
 
   <h3>View Audit Data</h3>
 
-  The analyst is able to view the audited data but unable to edit the data.
+  <p>The analyst is able to view the audited data but unable to edit the data.</p>
 
   <img src="images/user-guide/view-audit-data.png" alt="Viewing audited data" width="600px">
 
   <h3>Support Requests</h3>
 
-  The analyst is able to view support requests. They would be able to view contact messages and reported problems.
+  <p>The analyst is able to view support requests. They would be able to view contact messages and reported problems.
 
-  Once these problems and messages have been addressed, the user can archieve the message or marked it as resolved.
+  Once these problems and messages have been addressed, the user can archive the tickets or mark them as resolved.</p>
 
   <img src="images/user-guide/support-requests.png" alt="Viewing audited data" width="600px">
 
@@ -140,11 +140,11 @@ Pineapple Spire is deployed here: https://pineapple-spire-lemon.vercel.app/
 <details>
   <summary>👉 <strong>Auditor Guide</strong> (Click to expand)</summary>
 
-  This section provides a walkthrough of the Pineapple Spire auditor interface and its capabilities.
+  <p>This section provides a walkthrough of the Pineapple Spire auditor interface and its capabilities.
 
   The auditor has the same capabilities as the user and analyst, minus the ability to view support requests. However, they are able to view and edit audited data.
 
-  The auditor is able to view the audit data page and edit any values as needed, then save the changes.
+  The auditor is able to view the audit data page and edit any values as needed, then save the changes.</p>
 
   <img src="images/user-guide/auditor-page.png" alt="Viewing audited page" width="600px">
 
@@ -153,13 +153,13 @@ Pineapple Spire is deployed here: https://pineapple-spire-lemon.vercel.app/
 <details>
   <summary>👉 <strong>Admin Guide</strong> (Click to expand)</summary>
 
-  This section provides a walkthrough of the Pineapple Spire admin interface and its capabilities.
+  <p>This section provides a walkthrough of the Pineapple Spire admin interface and its capabilities.
 
-  The admin has the same capabilities as the user and analyst with additional features.
+  The admin has the same capabilities as the user and analyst with additional features.</p>
 
   <h3>Admin Page</h3>
 
-  The admin is able to view the admin page where they can see all registered users. The admin is able to change the users role or delete the users account.
+  <p>The admin is able to view the admin page where they can see all registered users. The admin is able to change the users role or delete the users account.</p>
 
   <img src="images/user-guide/admin-page.png" alt="Admin page" width="600px">
 
